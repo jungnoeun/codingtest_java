@@ -32,17 +32,6 @@ public class b10250 {
       W = Integer.parseInt(st.nextToken());
       N = Integer.parseInt(st.nextToken());
      
-      // N = 30;
-      // H = 6, W = 7 -> 506ȣ
-      // 30 / 6 ==0 -> Y = H
-      // X = 30 / 6
-     
-      // N = 31
-      // H = 4, W = 10 -> 308ȣ
-      // 31 / 4 = 7 + 1 = Y
-      // 31 % H = 3
-      // Y = N/H + 1;
-      // X = N % H;
       
       if(N%H == 0) {
         Y = N/H;

@@ -19,16 +19,30 @@ public class b13699 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
     
-    int sum = 0;
-    int[] arr = new int[N+1];
+    long[] arr = new long[N+1];
     arr[0] = 1;
+    arr[1] = 1;
+    int sum;
     
-    for(int i=1; i<N; i++) {
-      for(int j = N-i; j>=0 ; j--) {
-        arr[i] += arr[i-1]*arr[j];  
+    /**
+     * 이중 for문을 만들건데
+     * 맨 위 for문은 몇번의 계산을 할건지 세는 역할 --> N번 반복
+     * 아래 for문은 0~N-1 & N-1~0을 세는 역할 
+     * 이중 for문의 내용은 곱셈결과를 더하여 저장하는 내용.
+     */
+    
+    for(int i=2 ; i<=N; i++) {
+      sum=0;
+      for(int j = 0; j<i ; j++) {
+        arr[i] += arr[j]*arr[i-j-1];  
+        sum+=arr[i];
       }
-      
     }
+    
+    // for (long l : arr) {
+    //   System.out.println(l);
+    // }
+    System.out.println(arr[N]);
     
     br.close();
   }

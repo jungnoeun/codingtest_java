@@ -19,10 +19,9 @@ public class b13699 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
     
-    long[] arr = new long[N+1];
+    long[] arr = new long[N+2];
     arr[0] = 1;
     arr[1] = 1;
-    int sum;
     
     /**
      * 이중 for문을 만들건데
@@ -31,17 +30,12 @@ public class b13699 {
      * 이중 for문의 내용은 곱셈결과를 더하여 저장하는 내용.
      */
     
-    for(int i=2 ; i<=N; i++) {
-      sum=0;
-      for(int j = 0; j<i ; j++) {
+    for(int i=2 ; i<=N; i++) { 
+      for(int j = 0; j<i ; j++) { 
         arr[i] += arr[j]*arr[i-j-1];  
-        sum+=arr[i];
       }
     }
     
-    // for (long l : arr) {
-    //   System.out.println(l);
-    // }
     System.out.println(arr[N]);
     
     br.close();

@@ -38,16 +38,16 @@ public class b9625 {
     }
     
     // A, B 개수 계산
-    String[] strAB = str.split("");
-    for (String s : strAB) {
-      if(s.equals("A")) {
-        resultA++;
-      }else if(s.equals("B")) {
-        resultB++;
-      }
-    }
+    // String[] strAB = str.split("");
+    // for (String s : strAB) {
+    //   if(s.equals("A")) {
+    //     resultA++;
+    //   }else if(s.equals("B")) {
+    //     resultB++;
+    //   }
+    // }
     
-    System.out.println(resultA + " " + resultB);
-    br.close();
+    // System.out.println(resultA + " " + resultB);
+    // br.close();
   }
 }

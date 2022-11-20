@@ -12,6 +12,7 @@ public class b11179 {
     long num2 = num;
     StringBuilder sb = new StringBuilder();
     
+    // 뒤집힌 2진수 구하기
     while(num2>=2) {
       long remain = num2%2;
       long div = num2/2;
@@ -20,6 +21,7 @@ public class b11179 {
     }
     
     String str = sb.append(num2).toString();
+    // 2진수를 10진수로 바꾸기
     int res = Integer.valueOf(str,2);
     System.out.println(res);
     

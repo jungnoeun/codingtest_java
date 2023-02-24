@@ -1,0 +1,427 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1009",
+      "request": "launch",
+      "mainClass": "b1009",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1010",
+      "request": "launch",
+      "mainClass": "b1010",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10250",
+      "request": "launch",
+      "mainClass": "b10250",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1037",
+      "request": "launch",
+      "mainClass": "b1037",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10718",
+      "request": "launch",
+      "mainClass": "b10718",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10757",
+      "request": "launch",
+      "mainClass": "b10757",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10773",
+      "request": "launch",
+      "mainClass": "b10773",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10808",
+      "request": "launch",
+      "mainClass": "b10808",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10814",
+      "request": "launch",
+      "mainClass": "b10814",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10828",
+      "request": "launch",
+      "mainClass": "b10828",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10845",
+      "request": "launch",
+      "mainClass": "b10845",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10870",
+      "request": "launch",
+      "mainClass": "b10870",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10872",
+      "request": "launch",
+      "mainClass": "b10872",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10926",
+      "request": "launch",
+      "mainClass": "b10926",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b10951",
+      "request": "launch",
+      "mainClass": "b10951",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1100",
+      "request": "launch",
+      "mainClass": "b1100",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11022",
+      "request": "launch",
+      "mainClass": "b11022",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11050",
+      "request": "launch",
+      "mainClass": "b11050",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11179",
+      "request": "launch",
+      "mainClass": "b11179",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11653",
+      "request": "launch",
+      "mainClass": "b11653",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11718",
+      "request": "launch",
+      "mainClass": "b11718",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11719",
+      "request": "launch",
+      "mainClass": "b11719",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b11945",
+      "request": "launch",
+      "mainClass": "b11945",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1225",
+      "request": "launch",
+      "mainClass": "b1225",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1297",
+      "request": "launch",
+      "mainClass": "b1297",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b13699",
+      "request": "launch",
+      "mainClass": "b13699",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1463",
+      "request": "launch",
+      "mainClass": "b1463",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b14916",
+      "request": "launch",
+      "mainClass": "b14916",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b15312",
+      "request": "launch",
+      "mainClass": "b15312",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b17202",
+      "request": "launch",
+      "mainClass": "b17202",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b17478",
+      "request": "launch",
+      "mainClass": "b17478",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b1978",
+      "request": "launch",
+      "mainClass": "b1978",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2164",
+      "request": "launch",
+      "mainClass": "b2164",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2292",
+      "request": "launch",
+      "mainClass": "b2292",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2442",
+      "request": "launch",
+      "mainClass": "b2442",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2455",
+      "request": "launch",
+      "mainClass": "b2455",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2475",
+      "request": "launch",
+      "mainClass": "b2475",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2480",
+      "request": "launch",
+      "mainClass": "b2480",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2495",
+      "request": "launch",
+      "mainClass": "b2495",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b25083",
+      "request": "launch",
+      "mainClass": "b25083",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2525",
+      "request": "launch",
+      "mainClass": "b2525",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b25304",
+      "request": "launch",
+      "mainClass": "b25304",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2558",
+      "request": "launch",
+      "mainClass": "b2558",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2743",
+      "request": "launch",
+      "mainClass": "b2743",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2744",
+      "request": "launch",
+      "mainClass": "b2744",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2748",
+      "request": "launch",
+      "mainClass": "b2748",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2753",
+      "request": "launch",
+      "mainClass": "b2753",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2754",
+      "request": "launch",
+      "mainClass": "b2754",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2775",
+      "request": "launch",
+      "mainClass": "b2775",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2864",
+      "request": "launch",
+      "mainClass": "b2864",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b2920",
+      "request": "launch",
+      "mainClass": "b2920",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b3003",
+      "request": "launch",
+      "mainClass": "b3003",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b5613",
+      "request": "launch",
+      "mainClass": "b5613",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9012",
+      "request": "launch",
+      "mainClass": "b9012",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9086",
+      "request": "launch",
+      "mainClass": "b9086",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9625",
+      "request": "launch",
+      "mainClass": "b9625",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9655",
+      "request": "launch",
+      "mainClass": "b9655",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9656",
+      "request": "launch",
+      "mainClass": "b9656",
+      "projectName": "codingtest_java_a4201304"
+    },
+    {
+      "type": "java",
+      "name": "Launch b9657",
+      "request": "launch",
+      "mainClass": "b9657",
+      "projectName": "codingtest_java_a4201304"
+    }
+  ]
+}
